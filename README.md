@@ -1,5 +1,6 @@
 # Site sobre o Android responsivo
-Criei esse site com o Curso em Vídeo do Gustavo Guanabara, o qual usei variáveis, responsividade, tamanhos para filtrar as imagens, estilos e muita mão na massa. 
+Criei esse site com o Curso em Vídeo do Gustavo Guanabara, o qual usei variáveis, responsividade, tamanhos para filtrar as imagens, estilos e muita mão na massa. <br>
+Link do site: https://fernandamakihirose.github.io/site-android/ 
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
