@@ -1,10 +1,1 @@
-# Site sobre o Android responsivo
-- Criei esse site com o Curso em Vídeo do Gustavo Guanabara, o qual usei variáveis, responsividade, tamanhos para filtrar as imagens, estilos e muita mão na massa. <br>
-- <a href="https://fernandamakihirose.github.io/site-android/">Clique aqui para ver o site Android responsivo</a>
-
-## Requisitos
-- IDE
-- Navegador
-
-## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+![screencapture-fernandamakihirose-github-io-site-android-2023-02-03-17_57_57](https://user-images.githubusercontent.com/72028645/216709402-0df6881c-73ad-40a8-9fdf-9ab28ac47905.png)
